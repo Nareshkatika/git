@@ -1,1 +1,3 @@
 this is parent folder.that means it is head for all child branches.
+
+now i want to do some changes for git rebase.
